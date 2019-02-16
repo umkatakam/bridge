@@ -1,0 +1,23 @@
+{
+  "name": "bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umkatakam/bridge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umkatakam/bridge/issues"
+  },
+  "homepage": "https://github.com/umkatakam/bridge#readme"
+}
